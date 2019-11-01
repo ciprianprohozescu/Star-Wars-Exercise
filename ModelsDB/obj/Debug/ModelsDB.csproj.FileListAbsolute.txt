@@ -1,0 +1,11 @@
+C:\Users\cipri\source\repos\StarWars\ModelsDB\bin\Debug\ModelsDB.dll.config
+C:\Users\cipri\source\repos\StarWars\ModelsDB\bin\Debug\ModelsDB.dll
+C:\Users\cipri\source\repos\StarWars\ModelsDB\bin\Debug\ModelsDB.pdb
+C:\Users\cipri\source\repos\StarWars\ModelsDB\bin\Debug\DumpExtensions.dll
+C:\Users\cipri\source\repos\StarWars\ModelsDB\bin\Debug\EntityFramework.dll
+C:\Users\cipri\source\repos\StarWars\ModelsDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cipri\source\repos\StarWars\ModelsDB\bin\Debug\EntityFramework.xml
+C:\Users\cipri\source\repos\StarWars\ModelsDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cipri\source\repos\StarWars\ModelsDB\obj\Debug\ModelsDB.csproj.CopyComplete
+C:\Users\cipri\source\repos\StarWars\ModelsDB\obj\Debug\ModelsDB.dll
+C:\Users\cipri\source\repos\StarWars\ModelsDB\obj\Debug\ModelsDB.pdb

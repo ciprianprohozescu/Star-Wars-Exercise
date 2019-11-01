@@ -1,0 +1,15 @@
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\DumpExtensions.dll
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\ModelsDB.dll
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\ModelsDB.pdb
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\ModelsDB.dll.config
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\cipri\source\repos\StarWars\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cipri\source\repos\StarWars\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\cipri\source\repos\StarWars\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\cipri\source\repos\StarWars\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\cipri\source\repos\StarWars\DataAccess\obj\Debug\DataAccess.pdb

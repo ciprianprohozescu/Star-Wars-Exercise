@@ -1,0 +1,11 @@
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\bin\Debug\ModelsLogic.dll.config
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\bin\Debug\ModelsLogic.dll
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\bin\Debug\ModelsLogic.pdb
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\bin\Debug\DumpExtensions.dll
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\bin\Debug\EntityFramework.dll
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\bin\Debug\EntityFramework.xml
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\obj\Debug\ModelsLogic.csproj.CopyComplete
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\obj\Debug\ModelsLogic.dll
+C:\Users\cipri\source\repos\StarWars\ModelsLogic\obj\Debug\ModelsLogic.pdb

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StarWarsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Films">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="varchar" MaxLength="255" />
+    <Property Name="EpisodeID" Type="int" />
+    <Property Name="OpeningCrawl" Type="text" />
+    <Property Name="Director" Type="varchar" MaxLength="255" />
+    <Property Name="Producer" Type="varchar" MaxLength="255" />
+    <Property Name="ReleaseDate" Type="date" />
+  </EntityType>
+  <EntityType Name="Persons">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="255" />
+    <Property Name="Height" Type="varchar" MaxLength="255" />
+    <Property Name="Mass" Type="varchar" MaxLength="255" />
+    <Property Name="HairColor" Type="varchar" MaxLength="255" />
+    <Property Name="SkinColor" Type="varchar" MaxLength="255" />
+    <Property Name="EyeColor" Type="varchar" MaxLength="255" />
+    <Property Name="BirthYear" Type="varchar" MaxLength="255" />
+    <Property Name="Gender" Type="varchar" MaxLength="255" />
+    <Property Name="Homeworld" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityContainer Name="StarWarsModelStoreContainer">
+    <EntitySet Name="Films" EntityType="Self.Films" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Persons" EntityType="Self.Persons" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

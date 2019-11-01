@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StarWarsModelStoreContainer" CdmEntityContainer="StarWarsEntities">
+    <EntitySetMapping Name="Films">
+      <EntityTypeMapping TypeName="StarWarsModel.Film">
+        <MappingFragment StoreEntitySet="Films">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="EpisodeID" ColumnName="EpisodeID" />
+          <ScalarProperty Name="OpeningCrawl" ColumnName="OpeningCrawl" />
+          <ScalarProperty Name="Director" ColumnName="Director" />
+          <ScalarProperty Name="Producer" ColumnName="Producer" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Persons">
+      <EntityTypeMapping TypeName="StarWarsModel.Person">
+        <MappingFragment StoreEntitySet="Persons">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Height" ColumnName="Height" />
+          <ScalarProperty Name="Mass" ColumnName="Mass" />
+          <ScalarProperty Name="HairColor" ColumnName="HairColor" />
+          <ScalarProperty Name="SkinColor" ColumnName="SkinColor" />
+          <ScalarProperty Name="EyeColor" ColumnName="EyeColor" />
+          <ScalarProperty Name="BirthYear" ColumnName="BirthYear" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Homeworld" ColumnName="Homeworld" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
